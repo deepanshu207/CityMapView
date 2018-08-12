@@ -7,7 +7,7 @@ The project displays all the Delhi NCR Cities with the corresponding marker acco
 <h3>Android</h3>
 <img src="https://i.imgur.com/Itbhi7s.jpg" height="400">
 
-<h3>Ios</h3>
+<h3>Iphone</h3>
 <img src="https://i.imgur.com/ssvo3iD.png" height="400">
 
 
